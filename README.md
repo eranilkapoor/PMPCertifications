@@ -23,13 +23,36 @@
 # What is Project Management?
 # Six Constraints of Project Management
 * Scope 
-* Time
-* Quality
+* Schedule (Time)
 * Cost 
 * Risk
+* Quality
 * Resources
 
 # What is Project?
+# What is Project Management?
+# What is Program Management?
+# Project Management Office?
+# What is Portfolio Management?
+# Operations Management?
+# What is the Value of the Project?
+# Project Enable Changes
+# Phases & Deliverables
+# Project Life Cycle
+# Project Governance
+# Stackholders
+# Roles of a Project Manager
+# What are Milestones
+# Project Bosses
+# Product vs Project Management
+# Areas of a Project
+# Project Management Approaches
+# Organizational Structures
+# Risk vs Issues vs Assumptions vs Constraints
+# Project Constraints
+# Emotional Intelligence
+# Leadership vs Management
+
 # What is PMP?
 # Top 10 reason to get PMP Certified
     [Top 10 reason to get PMP Certified](Top-10-reason-to-get-PMP-Certified.md)
@@ -49,6 +72,50 @@
 # Key Skills for Project Manager
 # Project Management Methodologies
 # What is Kotter's 8 step change model?
+# Introduction to PM Principles
+# PMI Code of Ethics and Professional Conduct
+# 12 Principles of Project Management
+# Stewardship
+# Team
+# Stakeholders
+# Value
+# Systems Thinking
+# Leadership
+# Tailoring
+# Quality
+# Complexity
+# Risk
+# Adaptability & Resiliency
+# Change 
+
+# Project Management Domains 
+# Project Performance Domains Intro
+# Stakeholder Performance Domain
+# Team Performance Domain
+# Development Approach Life Cycle Performance Domain
+# Planning Performance Domain
+# Work Performance Domain
+# Delivery Performance Domain
+# Measurement Performance Domain
+# Uncertainty Performance Domain
+
+# Introduction to Traditional/Predictive Project Management
+# Introduction to the Process Groups
+# 49 Process of Traditional Project Management
+# 5 Process Groups
+# Process ITTOs
+# Enterprise Environmental Factors (EEF)
+# Organization Process Assets
+# Project Documents 
+# Project Management Plan
+# Expert Judgement
+# Data Gathering, Analysis, Representation, and Decision Making
+# Interpersonal and Team Skills
+# Meetings
+# PMIS
+# Change Request
+# Work Performance Data, Info & Report
+# Updates  
 
 
 Certainly! Here's the **latest PMP® certification syllabus** (based on the **PMI Exam Content Outline – 2021** update, still current as of 2025), along with a **practical preparation plan** for success.
