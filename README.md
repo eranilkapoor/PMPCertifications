@@ -30,6 +30,8 @@
 * Resources
 
 # What is Project?
+# What is Program?
+# What is Portfolio
 # What is Project Management?
 # What is Program Management?
 # Project Management Office?
@@ -116,6 +118,217 @@
 # Change Request
 # Work Performance Data, Info & Report
 # Updates  
+
+# Processes to Manage a Traditional/Predictive Project
+# Develop Project Charter
+# Identify Stakeholders
+# Develop Project Management Plan
+# Plan Scope Management
+# Collect Requirements
+# Define Scope
+# Create WBS
+# Plan Schedule Management
+# Define Activities
+# Sequence Activities
+# Estimate Activity Durations
+# PERT Formula
+# Develop Schedule
+# Critical Path Method Intro
+# Critical Path Method
+# Calculate float or slack
+# Forward Pass
+# Backward Pass
+# Free Float
+# CPM Practise Examples
+# Plan Cost Management
+# Estimate Cost
+# Determine Budget
+# Plan Quality Management
+# Plan Resources Management
+# Estimate Activity Resources
+# Plan Communication Management
+# Plan Risk Management
+# Itentify Risks
+# Perform Qualitative Risk Analysis
+# Perform Quantitative Risk Analysis
+# Plan Risk Response
+# Plan Procurement Management
+# Plan Stackholder Management
+# End of Planning
+# Executing
+# Direct and Manage Project Work
+# Manage Project Knowledge
+# Manage Quality
+# Acquire Resources
+# Develop Team
+# OSCAR Model
+# Drexler Sibbet Team Model
+# Manage Team
+# People Management Terms
+# MBTI
+# Project Communications
+# Implement Risk Responses
+# Conduct Procurements
+# Manage Stackholder Engagement
+# End of Executing
+# Intro to Monitoring & Controlling
+# Monitor and Control Project Work
+# Perform Integrated Change Control
+# Validate Scope
+# Control Scope, Schedule Cost
+# Earned Value Management
+# Formulas & Calculation of Earned Value Management
+# Control Quality
+# Control Resources
+# Monitor Communication
+# Monitor Risk
+# Control Procurements
+# Monitor Stackholder Engagement
+# Close Project or Phase
+
+# Agile Project Management Methods and Delivery
+# What is Agile
+# Agile vs Traditional Project Management
+# Agile Benefits
+# Inverting the Triangle
+# Agile Menifesto
+# Agile Menifesto Values
+# Individuals and intractions over processes and tools
+# Working software over comprehensive documentation
+# Customer collaboration over contract negotiation
+# Responding to change over following a plan
+# Agile Guiding Principles
+# Agile Methods
+# Agile Process
+# Scrum
+# Scrum Activities
+# Scrum Artifacts
+# Extreme Programming
+# XP Roles
+# XP Practices
+# Basic Terminology Review
+# Lean Development
+# Kanban Development
+# Other Agile Methods
+# Agile Declaration of Interdependence
+# Agile Mindset
+# Leading Effectively
+# Value Driven Delivery
+# Early Value Delivery
+# Reduce Waste
+# Assessing Value - Financial metrics
+# Accounting on Agile projects
+# Key Performance Indicators
+# Regulatory Compliance
+# Risk Management
+# How Customers Conduct Value Prioritization
+# Different Prioritization Techniques
+# Kano Analysis
+# Delivering Value Incrementally
+# Minimal Viable Product
+# Tools for Agile Projects
+# Limit WIP
+# Cumulative Flow Diagrams
+# Agile Contracting
+# Verifying & Validating
+
+# Agile Stakeholder Management
+# Stakeholder Stewardship
+# Educating People About Agile
+# Engaging Stakeholders
+# Methods of Stakeholder Engagement
+# Agile Chartering
+# Definition Of Done
+# Set a Shared Vision
+# Agile Modeling
+# Personas
+# Communicating with Stakeholders
+# Green Zone & Red Zone
+# How to Conduct a Workshop
+# Brainstorming
+# Collaboration Games
+# Using Critical Soft Skills
+# Emotional Intelligence
+# Negotiation
+# Active Listening
+# Facilitation
+# Conflict Resolution
+# Participatory Decision Models
+# People Over Processes
+# Development Team Roles
+# Building Agile Teams
+# Safe Place
+# Models of Team Development
+# Tuckman Five Stages of Team Development
+# Training, Coaching, and Mentoring
+# Team Spaces
+# Burn and Velocity Charts
+
+# Agile Planning, Problem Resolution and Continuous Improvement
+# What is Adaptive Planning
+# Agile Plans
+# Progressive Elaboration
+# Value Decomposition and Design the Product Box
+# Coarse Requirements
+# Timeboxing
+# Estimation
+# Ideal Time
+# User Stories
+# User Story Backlog
+# Assigning points to the stories using Fibonacci Sequence
+# Story Points and T-Shirt Sizing
+# Wideband Delphi
+# Using Planning Poker to Assign Story Points
+# Story Maps and Product Roadmaps
+# Iterations and Spikes
+# Iteration and Release Planning
+# Understand How Problems Happens
+# Technical Debt
+# Success and Failure Modes
+# Lead Time and Cycle Time
+# Defects
+# Variances and Control Limits
+# Risk Management
+# Fixing Problems
+# Kaizen
+# Customize Processes
+# Value Stream Maps
+# Project Pre-Mortems
+# Retrospective Intro
+# Set The Stage
+# Gather Data
+# Generate Insights
+# Decide what to to do
+# Close the Retrospective
+# Team Self Assessment
+
+# Hybrid Project Management
+# Hybrid Introduction
+# Definable vs Uncertainty
+# Four Life Cycles
+# Hybrid Method 1
+# Hybrid Method 2
+# Hybrid Method 3
+# Hybrid Method 4
+# Hybrid Fit for purpose
+
+# Ethics and Professional Responsibilities
+# Professional Responsibilities and Ethics
+# Truth
+# Laws
+# Gifts and Donations
+# Permission
+# PMI
+
+# PMP Application
+# Application Introduction
+# Application Requirements
+# Members vs Non-members Cost
+# Starting the Application
+# PM Experience
+# Writing the Description
+# Writing the Description Using AI
+# PMI Audit
 
 
 Certainly! Here's the **latest PMP® certification syllabus** (based on the **PMI Exam Content Outline – 2021** update, still current as of 2025), along with a **practical preparation plan** for success.
@@ -264,3 +477,28 @@ Would you like:
 * ✅ A list of **free high-quality practice questions**?
 
 Just let me know!
+
+
+# Project Management Office (PMO)
+# Agile Centers of Excellence (ACoEs) / Value Delivery Office (VDO)
+# Organizational Structures
+    * Functional
+    * Matrix
+    * Project Oriented
+# Agile Manifesto
+# Principle Behind the Agile Manifesto
+# Burn Down Chart
+# Project Approach
+# Predictive
+# Adaptive / Iterative
+# Hybrid
+# Project Governance
+# Typical Project Stakeholders
+# Stakeholder Management
+# Communication Management
+# Expert Judgement
+# Stakeholder Engagement Strategy
+# Forming Team
+# Project Team Composition
+# Project Manager Role
+# Tuckman's Ladder of Team Development
