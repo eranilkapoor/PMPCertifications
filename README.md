@@ -1,7 +1,5 @@
 # PMP Certified Project Manager
 
----
-
 ## 🎯 PMP® Certification Syllabus (2025)
 
 The PMP exam is based on **three domains** with **tasks** and **enablers** for each:
