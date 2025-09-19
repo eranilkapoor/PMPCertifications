@@ -136,12 +136,18 @@ Focus: Aligning projects with strategic business goals.
 
 ---
 
+# Table of Contents :- 
 
-* Main Domains :-
+* Main Domains
     - People
     - Process
     - Business Environment
-
+* [Process Groups](Process-Groups.md)
+    - Initiating
+    - Planning
+    - Executing
+    - Monitoring & Controlling
+    - Closing / Phase
 
 
 
