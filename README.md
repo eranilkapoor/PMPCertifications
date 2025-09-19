@@ -479,6 +479,17 @@ Would you like:
 Just let me know!
 
 
+
+
+
+
+
+
+
+
+
+Virtual Instructor-Led Training (VILT) Topics Covered:-
+
 # Project Management Office (PMO)
 # Agile Centers of Excellence (ACoEs) / Value Delivery Office (VDO)
 # Organizational Structures
@@ -502,3 +513,73 @@ Just let me know!
 # Project Team Composition
 # Project Manager Role
 # Tuckman's Ladder of Team Development
+# Build Shared Understanding
+# Kano Model
+# MoSCoW
+# Scope Management Plan
+# The Project Schedule
+# Gantt Chart
+# Crashing
+# Schedule Baseline
+# Cost Management
+# Budget
+# Cost Baseline
+# Cost Estimation
+# Management Reserve
+# Contingency Reserve
+# Earned Value Management
+# Quality
+# Quality Metrics
+# Cost Of Quality 
+
+1>D
+2>D >C
+3>C >B
+4>A
+5>D
+6>B
+7>C
+8>B
+9>A
+10>C
+11>C >B
+12>D
+13>C >B
+14>B
+15>D >B
+16>B >C
+17>C
+18>D >C
+19>A
+20>B >C
+21>B
+22>B
+23>A
+24>B >C
+25>B >C
+26>D
+27>D
+28>B >C
+29>B >D
+30>A >C
+31>C
+32>A
+33>B
+34>D >C
+35>D
+36>A >B
+37>B
+38>D
+39>C
+40>B >A
+41>A
+42>D
+43>C >D
+44>D
+45>D
+46>D >A
+47>B
+48>D
+49>D >C
+50>B
+51>
