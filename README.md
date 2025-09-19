@@ -138,7 +138,7 @@ Focus: Aligning projects with strategic business goals.
 
 # Table of Contents :- 
 
-* Main Domains
+* [Main Domains](Main-Domains.md)
     - People
     - Process
     - Business Environment
@@ -148,6 +148,17 @@ Focus: Aligning projects with strategic business goals.
     - Executing
     - Monitoring & Controlling
     - Closing / Phase
+* [Knowledge Areas](Knowledge-Areas.md)
+    - Integration
+    - Scope 
+    - Schedule (Time)
+    - Cost 
+    - Quality
+    - Resource
+    - Communications
+    - Risk
+    - Procurement
+    - Stakeholder
 
 
 
@@ -158,12 +169,6 @@ Focus: Aligning projects with strategic business goals.
 
 * What is PMP?
 * PMP Basic Concept
-* Initiation
-* Planing
-* Execution
-* Monitoring & Controlling 
-* Closure
-
 
 # How to Become a Project Manager?
 
@@ -174,18 +179,6 @@ Focus: Aligning projects with strategic business goals.
 
 # What is Project Management?
 # Six Constraints of Project Management
-
-* Integration
-* Scope 
-* Schedule (Time)
-* Cost 
-* Quality
-* Resource
-* Communications
-* Risk
-* Procurement
-* Stakeholder
-
 # What is Project?
 # What is Program?
 # What is Portfolio
@@ -216,11 +209,6 @@ Focus: Aligning projects with strategic business goals.
 # Top 10 reason to get PMP Certified
     [Top 10 reason to get PMP Certified](Top-10-reason-to-get-PMP-Certified.md)
 # PMP basic concept (5 Basic Concept) OR Project Life Cycle
-* Initiation
-* Planning
-* Execution
-* Monitoring & Controling
-* Closure
 # Who can get certified?
 # Pattern of PMP Exam
 # PMBOK Guide
@@ -591,3 +579,9 @@ Virtual Instructor-Led Training (VILT) Topics Covered:-
 49>D >C
 50>B
 51>
+
+
+CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
+SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
+CV (Cost Variance) = EV-AC = (Earned Value) - (Actual Cost)
+SV (Scheduled Variance) = EV-PV = (Earned Value) - (Planned Value)
