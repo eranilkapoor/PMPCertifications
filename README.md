@@ -1,4 +1,4 @@
-#                                       PMP Certified Project Manager
+# PMP Certified Project Manager
 
 ## 🎯 PMP® Certification Syllabus (2025)
 
@@ -65,7 +65,6 @@ Focus: Aligning projects with strategic business goals.
 | **Type**      | Multiple choice, multiple response, drag and drop, hotspot, matching |
 
 ---
-
 
 
 ## 📅 PMP Preparation Plan (60 Days)
@@ -138,7 +137,7 @@ Focus: Aligning projects with strategic business goals.
 ---
 
 
-# Main Domains :-
+* Main Domains :-
     - People
     - Process
     - Business Environment
