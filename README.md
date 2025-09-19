@@ -1,4 +1,3 @@
-# PMP Certified Project Manager
 
 ---
 
