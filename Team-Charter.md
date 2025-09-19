@@ -1,7 +1,3 @@
-Great one 👍 — **Team Charter** is another PMP favorite. Let’s break it down clearly.
-
----
-
 # **Team Charter (in PMP / PMBOK® Guide)**
 
 ### ✅ **Definition**
@@ -59,26 +55,6 @@ Typically, it includes:
 * Helps in **team building, collaboration, and conflict resolution**.
 
 ---
-
-👉 Do you want me to create a **ready-to-use Team Charter template (Word/Excel format)** that you can actually use in your projects?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Good question 👍 Let’s go step by step.
 
 ---
 
@@ -149,5 +125,3 @@ It includes the **Project Manager, core team members, supporting roles, and some
   * **Manage Team**
 
 ---
-
-👉 Would you like me to also create an **organizational chart (hierarchy diagram)** showing how a typical project team is structured (PM → Leads → Members)?

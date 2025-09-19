@@ -1,4 +1,4 @@
-# PMP Certified Project Manager
+#                                       PMP Certified Project Manager
 
 ## 🎯 PMP® Certification Syllabus (2025)
 
@@ -65,6 +65,8 @@ Focus: Aligning projects with strategic business goals.
 | **Type**      | Multiple choice, multiple response, drag and drop, hotspot, matching |
 
 ---
+
+
 
 ## 📅 PMP Preparation Plan (60 Days)
 
@@ -135,6 +137,20 @@ Focus: Aligning projects with strategic business goals.
 
 ---
 
+
+# Main Domains :-
+    - People
+    - Process
+    - Business Environment
+
+
+
+
+
+
+
+
+
 * What is PMP?
 * PMP Basic Concept
 * Initiation
@@ -143,10 +159,6 @@ Focus: Aligning projects with strategic business goals.
 * Monitoring & Controlling 
 * Closure
 
-# Main Domains :-
-* People
-* Process
-* Business Environment
 
 # How to Become a Project Manager?
 
@@ -157,12 +169,17 @@ Focus: Aligning projects with strategic business goals.
 
 # What is Project Management?
 # Six Constraints of Project Management
+
+* Integration
 * Scope 
 * Schedule (Time)
 * Cost 
-* Risk
 * Quality
-* Resources
+* Resource
+* Communications
+* Risk
+* Procurement
+* Stakeholder
 
 # What is Project?
 # What is Program?

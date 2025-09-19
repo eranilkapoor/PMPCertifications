@@ -1,7 +1,3 @@
-Perfect question 👍 — this one is **very important for PMP** and often comes in situational questions.
-
----
-
 # **RACI Chart in PMP**
 
 ### ✅ **Definition**
@@ -61,5 +57,3 @@ It prevents confusion by showing **who is responsible for what**.
 * RACI is often tested with situational questions like: *“Who should sign off the deliverable?” → The one marked as **A (Accountable)**.*
 
 ---
-
-👉 Would you like me to also create a **visual diagram (matrix chart)** of a RACI for one project scenario (like software development or construction) so you can **remember it faster**?
