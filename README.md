@@ -159,6 +159,20 @@ Focus: Aligning projects with strategic business goals.
     - Risk
     - Procurement
     - Stakeholder
+* [Project Lessons](Project-Lessons.md)
+    - Business Environment
+    - Start the Project
+    - Plan the Project
+    - Lead the Team
+    - Support the Project Team
+    - Close the Project/Phase
+* [Project Management Lifecycle](Project-Management-Lifecycle.md)
+    - Predictive
+    - Iterative
+    - Incremental
+    - Adaptive
+    - Hybrid
+* []
 
 
 
@@ -493,6 +507,12 @@ Virtual Instructor-Led Training (VILT) Topics Covered:-
     * Matrix
     * Project Oriented
 # Agile Manifesto
+    * 4 Values
+        - Individuals & Interactions Over (Over Processes and tools)  
+        - Working Software Over (Over Comprehensive Documentation)
+        - Customer Collaboration Over (Contract Negotiation)
+        - Responding to Change Over (Following a Plan)
+    * 12 Agile Principles
 # Principle Behind the Agile Manifesto
 # Burn Down Chart
 # Project Approach
@@ -585,3 +605,36 @@ CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
 SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
 CV (Cost Variance) = EV-AC = (Earned Value) - (Actual Cost)
 SV (Scheduled Variance) = EV-PV = (Earned Value) - (Planned Value)
+
+
+
+### Mock Test Review Topics :-
+
+1. Retrospective Meeting
+2. Tuckman's Ladder of Team Development
+2. Agile Manifesto
+3. Team Members Role (Product Owner, Project Manager, Team)
+4. Monitoring (Support Team Member Long Term)
+5. Information Radiator?
+6. Acquired Needs Theory
+7. Risk Analysis, Assessment & Prioritization
+8. Communication Tools
+9. Changes & Change Management Plan
+10. Psychological safety
+11. Change Control Board or Approval of Changes
+12. Configuration management system
+13. OKRs (Objectives and Key Results)
+14. EVM (CPI, SPI)
+15. PESTLE & VUCA Framework
+16. Coaching
+17. Quality Metrics
+18. Attributes of an Agile team?
+19. Team Management
+20. Stakeholder engagement assessment matrix
+21. Communications management plan
+22. Estimating Techniques
+23. Satement Of Work (SOW)
+24. Activity Relationship
+25. Triangular Distribution (Three-Point Estimation)
+26. Contract Type
+27. Oscar model
