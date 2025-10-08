@@ -172,7 +172,156 @@ Focus: Aligning projects with strategic business goals.
     - Incremental
     - Adaptive
     - Hybrid
-* []
+* [Framework](Framework-and-Business-Environment.md)
+    * Definition Of A Project
+    * Stakeholders
+        - People or Organizataions 
+        - Nagatively or Positively impacted by Project or Product
+    * Project Management
+        - Predictive / Plan Driven / Traditional / Waterfall
+        - Agile / Change Driven / Adaptive
+        - Hybrid
+    * Program Management
+        - Grouping related projects
+        - Manage by Program Manager
+    * Portfolio Management
+    * Organizational Project Management (OPM)
+    * Project Management Office (PMO)
+        - Supportive
+        - Controlling
+        - Directive
+    * Operational Work
+    * Governance
+        - Organizational Governance
+        - Project Governance
+    * Organizational Structure
+        - Functional
+        - Project Oriented 
+        - Matrix
+            - Strong Matrix
+            - Weak Matrix
+            - Balanced Matrix
+    * Inputs and Outputs
+    * Organizational Process Assets (OPAs)
+        - Processes, Procedures, and Policies
+        - Organizational Knowledge Repositories
+        - Enterprise Environmental Factors (EEF)
+            - Internal Enterprise Environmental Factors
+            - External Enterprise Environmental Factors
+    * Assumption Log
+    * Constraints
+    * Tools and Techniques
+        - Data Gathering
+            - Benchmarking
+            - Brainstorming
+            - Prompt lists
+            - Checklists
+            - Interviews
+            - Market Research
+            - Questionnaires and Surveys
+        - Data Analysis
+            - Alternatives Analysis
+            - Assumptions and Constraints
+            - Cost Benefit Analysis
+            - Document Analysis
+            - Earned Value Analysis
+            - Performance Reviews
+            - Reserve Analysis
+            - Root Cause Analysis
+            - Simulation        
+            - SWOT        
+            - Trend Analysis        
+            - Value Stream Mapping        
+            - Variance Analysis        
+            - What-if Analysis
+        - Data Representation
+            - Affinity Diagrams
+            - Cause-and-effect Diagrams
+            - Control Charts
+            - Flowcharts
+            - Hierarchical Charts
+            - Histograms
+            - Logical Data Models
+            - Matrix Diagrams / Charts
+            - Mind Mapping
+            - Probability and Impact Matrices
+            - Release Maps
+            - Scatter Diagrams
+            - Stakeholder Engagement Assessment Matrices
+            - Stakeholder Mapping / Representation
+            - Text-oriented Formats
+        - Decision Making
+            - Fist of Five
+            - Multicriteria Decision Analysis
+            - Voting
+        - Communication
+            - Active Listening
+            - Appreciative Inquiry
+            - Feedback
+            - Presentations
+            - Meeting Management
+            - Communication Methods
+            - Communication Technology 
+        - Interpersonal and Team Skills
+            - Conflict Management
+            - Cultural Awareness
+            - Decision Making
+            - Emotional Intelligence
+            - Facilitation
+            - Influencing
+            - Leadership
+            - Meeting Management
+            - Motivation
+            - Negotiation 
+            - Networking
+            - Observation / Conversation
+            - Political Awareness
+            - Team Building 
+        - Estimating
+            - Analogous
+            - Bottom Up
+            - Parametric
+            - Top Down
+            - Expert Judgment
+            - Planing Poker
+        - Project Management Information System (PMIS)
+        - Expert Judgment
+        - Meetings
+        - Work Performance Data, Information, and Reports
+    * Project Selection
+        - Economic Measures for Project Selection
+            - Return on Investment (ROI)
+            - Present Value (PV)
+            - Future Value (FV)
+            - Net Present Value (NVP)
+            - Internal Rate of Return (IRR)
+            - Payback Period
+            - Cost Benefit Analysis
+            - Economic Value Added (EVA)
+            - Opportunity Cost
+            - Sunk Cost
+            - Law of Diminishing Returns
+            - Working Capital
+            - Depreciation
+                - Straight Line Depreciation 
+                - Accelerated Depreciation
+                    - Double Declining Balance
+                    - Sum of the years digits
+    * Project Roles
+        - Project Manager
+        - Project Sponsor / Initiator
+        - Product Manager
+        - Project Team
+        - Stakeholders
+        - Functional / Resource Manager
+        - Program Manager
+        - Portfolio Manager
+    * Environmental Factors
+    * Organizational Culture
+    * Managing Change
+        - Project Change
+        - Transitional Change
+        - Environmental Change
 
 
 
@@ -548,63 +697,10 @@ Virtual Instructor-Led Training (VILT) Topics Covered:-
 # Quality Metrics
 # Cost Of Quality 
 
-1>D
-2>D >C
-3>C >B
-4>A
-5>D
-6>B
-7>C
-8>B
-9>A
-10>C
-11>C >B
-12>D
-13>C >B
-14>B
-15>D >B
-16>B >C
-17>C
-18>D >C
-19>A
-20>B >C
-21>B
-22>B
-23>A
-24>B >C
-25>B >C
-26>D
-27>D
-28>B >C
-29>B >D
-30>A >C
-31>C
-32>A
-33>B
-34>D >C
-35>D
-36>A >B
-37>B
-38>D
-39>C
-40>B >A
-41>A
-42>D
-43>C >D
-44>D
-45>D
-46>D >A
-47>B
-48>D
-49>D >C
-50>B
-51>
-
-
-CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
-SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
-CV (Cost Variance) = EV-AC = (Earned Value) - (Actual Cost)
-SV (Scheduled Variance) = EV-PV = (Earned Value) - (Planned Value)
+# CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
+# SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
+# CV (Cost Variance) = EV-AC = (Earned Value) - (Actual Cost)
+# SV (Scheduled Variance) = EV-PV = (Earned Value) - (Planned Value)
 
 
 

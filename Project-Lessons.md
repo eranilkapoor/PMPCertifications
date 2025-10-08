@@ -103,3 +103,103 @@ Here’s a structured set of details for each:
 These domains form the **life cycle of a project manager’s responsibilities** — from aligning with strategy (Business Environment), through initiation and planning, to leading and supporting the team, and finally closing with knowledge transfer and value realization.
 
 ---
+
+* Business Environment
+    - Foundation
+        - Project
+        - The Evolution of Project Management
+        - Project Management Life Cycles and Development Approaches
+            - Predictive 
+            - Adaptive
+            - Hybrid
+        - Project Management Office (PMO)
+            - Supportive PMO
+            - Controlling PMO
+            - Directive PMO
+            - Agile Center of Excellence (ACoEs) / Value Delivery Office (VDO)
+        - Organizational Project Management (OPM)
+            - Project Management
+            - Program Management
+            - Portfolio Management
+            - Operations Management
+        - Organizational Structures
+            - Functional
+            - Project Oriented
+            - Matrix
+            - Composite
+        - Project Management Principles / 12 Principles
+        - Performance Domains / 8 Performance Domains
+        - The Agile Manifesto for Software Development
+            - Four Values
+            - 12 Principles
+    - Strategic Alignment
+        - PMI Talent Triangle
+            - Ways of Working
+            - Power Skills
+            - Business Acumen
+        - Strategic Alignment and Business Management Skills
+        - Strategic Management Elements and Frameworks
+        - Organizational Influences 
+            - Enterprise Environmental Factors (EEFs)
+                - Internal 
+                - External
+            - Organizational Process Assets (OPAs)
+                - Process, Policies and Procedures
+                - Corporate Knowledge Base
+        - Get to know the External Busisness Environment
+    - Project Benefits and Value
+        - Business Value
+        - Examine Business Value
+        - Types of Business Value
+            - Financial Gain
+            - New Customers
+            - Social Benefit
+            - First to Market
+            - Improvement
+            - Regularization
+        - Needs Assessment / Obtain Data for the Project
+        - Business Documents
+            - Business Case
+            - Benefits Management Plan
+            - Benefit Measurement Methods
+                - Cost-benefit Analysis
+                - Internal Rate Of Return (IRR)
+                - Return on Investment (ROI)
+        - Project Selection Using Present Value (PV) and Net Present Value (NPV)
+        - How OKRs Help Deliver Business Value
+        - Incremental Value Delivery
+    - Organizational Culture and Change Management
+        - Change Management
+        - Manage Organizational Change Impacts on Projects
+        - Get to Know Organizational Cultures and Styles
+        - Risk, Culture and Change in Organizations
+        - Change Management Framework
+        - Actions to Support Change
+        - Plan for Change
+        - Organizational Transformation for Project Practitioners
+    - Project Governance
+        - Project Governance Components
+        - Governance in Adaptive Projects
+        - Governance Board / Project Board / Steering Committee
+        - Governance Defines Escalation Procedures
+        - Governance and Life Cycles
+        - Governance Checkpoints : Phase Gates and Iterations
+        - Project Phases Relationships
+        - Apply Governance to Predictive Project Phases
+    - Project Compliance
+        - Compliance 
+        - Compliance Requirements
+        - Compliance Categories Classification
+        - Compliance Threats
+        - Treat Compliance as a Project Objective
+        - Compliance : Five Best Practices
+            1. Documentation 
+            2. Risk Planning 
+            3. Compliance Council
+            4. Compliance Audit
+            5. Compliance Stewardship
+* Start the Project
+* Plan the Project
+* Lead the Team
+* Support the Project Team
+* Close the Project/Phase
