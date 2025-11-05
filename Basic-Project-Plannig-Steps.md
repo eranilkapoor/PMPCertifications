@@ -1,7 +1,3 @@
-Here are the **basic steps in project planning**, simplified and practical—whether you're following PMP standards or just managing a real-world project.
-
----
-
 ## ✅ **Basic Project Planning Steps**
 
 ### 1. 📌 **Define Project Goals and Objectives**

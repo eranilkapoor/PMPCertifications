@@ -322,6 +322,470 @@ Focus: Aligning projects with strategic business goals.
         - Project Change
         - Transitional Change
         - Environmental Change
+* [Integration](Integration.md)
+    - Integrtion Management Process
+    - Integrated Change Control
+    - Process for Making Changes
+    - Project Management Plan
+        - Project Life cycle
+        - Development Approach
+        - Management Reviews
+        - Tailoring
+        - Individual Management Plans
+        - Baselines
+        - Requirements Management Plan
+        - Change Management Plan
+        - Configuration Management Plan
+    - Project Charter
+    - Knowledge Management
+    - Types of Knowledge
+        - Tacit
+        - Explicit
+    - Project Documents
+    - Assumption Log
+    - Change Request
+    - Corrective Action
+    - Preventive Action
+    - Defect Repair
+    - Constraints and Assumptions
+    - Configuration Management System
+    - Change Control System
+    - Change Control Board
+    - Work Authourization System
+    - Leasons Learned
+    - Agile Change Management
+    - Kickoff Meeting
+* [Scope](Scope.md)
+    - Product Scope
+    - Project Scope
+    - Scope Management Process
+    - Scope Management Plan
+    - Requirements Management Plan
+    - Data Gathering Techniques
+        - Brainstorming
+        - Interviews
+        - Feature Workshops
+        - Epics, Feature, User Stories, Tasks 
+        - Focus Groups
+        - Questionnaires and Surveys
+        - Benchmarking
+    - Requirements Documentation
+    - Project Scope Statement
+    - Work Breakdown Structure (WBS)
+        - Decomposition
+        - Control Account
+        - Work Package
+        - Activity
+        - How to create a WBS
+        - Benefits of using a WBS
+        - Uses for a WBS
+    - WBS Dictionary
+    - Product Backlog
+    - Product Roadmap
+    - Timeboxing
+    - Scope Baseline
+    - Group Decision Making
+        - Voting
+        - Multicriteria Decision Analysis
+    - Data Representation
+        - Affinity Diagrams
+        - Mind Maps
+    - Requirements Categories
+        - Business
+        - Stakeholder
+        - Solution
+            - Functional
+            - NonFunctional
+        - Transition
+        - Project 
+        - Quality
+        - Technical
+    - Interpersonal and Team Skills
+        - Nominal Group Technique
+        - Observation
+        - Facilitation
+            - Consensus
+            - User Stories
+    - Context Diagrams
+    - Prototypes
+    - Acceptance Criteria
+    - Requirements Traceability Matrix
+    - Product Analysis
+    - Deliverables
+        - Verified
+        - Accepted
+* [Schedule](Schedule.md)
+    - Schedule Management Process
+    - Schedule Baseline
+    - Schedule Compression
+        - Crashing
+        - Fast Tracking
+    - Activity List
+    - Network Diagram
+    - Dependencies
+        - Mandatory
+        - Discretionary
+        - External
+        - Internal
+    - Precedence Diagramming Method (PDM)
+    - Critical Path
+    - Relative Sizing
+    - Story Points
+    - Float (Schedule Flexibility)
+        - Total Float
+        - Free Float
+        - Project Float
+    - Three Point Estimating
+        - Beta Distribution
+        - Tringular Distribution
+    - Monte Carlo Analysis
+    - Bar Charts
+    - Schedule Model
+    - Schedule Management Plan
+    - Critical Path Method
+    - Leads and Lags
+    - Milestones, Milestone List and Chart
+    - Reserve Analysis
+    - Padding
+    - Analogous Estimating
+    - Parametric Estimating
+    - Bottom Up Estimating
+    - Heuristics
+    - Activity Attributes
+    - Rolling Wave Planning
+    - Progress Elaboration
+    - Alternatives Analysis
+    - Affinity Estimating
+    - T-Shirt Sizing
+    - Planning Poker
+    - Resource Optimization
+        - Resource Leveling
+        - Resource Smoothing
+    - Velocity
+    - Agile Release Planning
+    - Comulative Flow Diagrams
+    - Reestimating
+* [Cost](Cost.md)
+    - Cost Management Process
+    - Earned Value Analysis
+        - Planed Value (PV)
+        - Earned Value (EV)
+        - Actual Cost (AC)
+        - CPI
+        - SPI
+        - BAC
+        - EAC
+        - ETC
+        - VAC
+        - CV
+        - SV
+        - TCPI
+    - Cost Baseline
+    - Cost Budget
+    - Performance Measurement Baseline
+    - Three Point Estimating
+    - Analogous Estimating
+    - Bottom Up Estimating
+    - Parametric Estimating
+    - Inputs to Estimating Cost
+    - Cost Management Plan
+    - Rough Order Of Magnitude (ROM) Estimate
+    - Definitive Estimate
+    - Budget Estimate
+    - Reserve Analysis
+    - Contigency Reserves
+    - Management Reserves
+    - Variable / Fixed Costs
+    - Direct / Indirect Costs
+    - Earned Value Analysis
+    - Control Thresholds
+    - Progress Reporting
+* [Quality](Quality.md)
+    - Quality Management Process
+    - Definition of Quality
+    - Gold Plating
+    - Prevention Over Inspection
+    - Continuous Improvement
+    - Just In Time (JIT)
+    - Responsibility for Quality
+    - Interviews, Brainstroming, and Benchmarking
+    - Cost Benefit Analysis
+    - Impact Of Poor Quality
+    - Cost Of Quality
+    - Costs of Conformance and Nonconformance
+    - Marginal Analysis
+    - Logical Data Models
+    - Flowcharts
+    - Test and Inspection Planning
+    - Checklists
+    - Quality Metrics
+    - Quality Management Plan
+    - Cause and Effect Diagrams
+    - Histograms
+    - Pareto Charts
+    - Scatter Diagrams
+    - Aleternatives Analysis
+    - Document Analysis 
+    - Design of Experiments
+    - Process Analysis
+    - Root Cause Analysis
+    - Failure Analysis
+    - Multicriteria Decision Analysis
+    - Affinity Diagrams
+    - Audits
+    - Design for X
+    - Problem Solving 
+    - Test and Evaluation Documents
+    - Quality Reports
+    - Mutual Exclusivity
+    - Probability
+    - Normal Distribution
+    - Statistical Independence
+    - Standard Deviation
+    - 3 or 6 Sigma
+    - Checksheets
+    - Statistical Sampling
+    - Questionnaires and Surveys
+    - Performance Reviews
+    - Inspection
+    - Control Charts
+        - Assignable Cause / Special Cause Variation
+        - Control Limits
+        - Mean
+        - Specification Limits
+        - Out Of Control
+        - Rule Of Seven
+* [Resources](Resources.md)
+    - Resource Management Process
+    - Resource Responsibilities for Project Managers
+    - Resource Management Plan
+    - Recognition and Reward System
+    - Team Building
+    - Confilict Resolution Techniques
+    - Coaching
+    - Key Performance Indicators
+    - Tracking Team Peformance
+        - Burndown Chart
+        - Burnup Chart
+    - Issue log
+    - Responsibility Assignment Matrix (RAM)
+    - RACI Chart
+    - Organizational Breakdown Structure
+    - Resource Breakdown Structure
+    - Resource Histogram
+    - Team Charter
+    - Motivation
+    - Training Needs of Team Members
+    - Team Performance Assessment
+    - Management and Leadership Styles
+    - Powers of the Project Manager
+    - Emotional Intelligence
+    - Influencing
+    - Problem Solving Method
+    - Sources of Confilict
+    - Preassignment
+    - Negotiation
+    - Multicriteria Decision Analysis 
+    - Colocation
+    - Virtual Teams
+    - Communication Technology
+    - Tuckman Ladder
+    - Lean
+    - Kaijen
+    - Just In Time (JIT)  
+* [Communications](Communications.md)
+    - Communications Management Processes
+    - Communications Management Plan
+    - Flow of Communcation
+    - Communication Types
+    - Communication Models
+    - Communication Technology
+    - Communication Methods
+        - Interactive Communication
+        - Push Communication
+        - Pull Communication
+    - Meetings
+    - Communication Channels
+    - Project Reporting
+        - What should be Reported
+        - Types of Reports
+            1. Status Report
+            2. Progress Report
+            3. Trend Report
+            4. Forecasting Report
+            5. Variance Report
+            6. Earned Value Report
+            7. Progress Metrics
+            8. Retrospective Findings
+            9. Lessons Learned
+    - Communication Blockers
+    - Knowledge Sharing
+        - Information Radiators
+* [Risk](Risk.md)
+    - Definition of Risk Management
+    - Risk Management Process
+    - Threats and Opportunities
+    - Uncertainties
+        - Spikes
+        - Fast Failure
+    - Risk Factors
+    - Risk Appetite
+    - Risk Threshold
+    - Risk Averse
+    - Inputs to Risk Management
+    - Risk Register
+    - Risk Management Plan
+    - Risk Report
+    - Risk Categories
+    - Risk Breakdown Structure (RBS)
+    - Overall Project Risk
+    - Individual Project Risk
+    - Types of Risk
+    - Probability and Impact Matrix
+        - Watch List
+        - Variance and Trend Analysis
+    - Risk Response Strategies
+        - Avoid
+        - Mitigate
+        - Transfer
+        - Exploit
+        - Share
+        - Enhance
+        - Accept
+        - Escalate
+    - Residual Risk
+    - Contingency Plans
+    - Fallback Plans
+    - Risk Owner
+    - Secondary Risks
+    - Risk Trigger
+    - Workarounds
+    - Reserve Analysis
+    - Risk Reviews and Audit
+    - Simulation
+    - Checklist Analysis
+    - SWOT Analysis
+    - Pre-mortems
+    - Risk Backlog
+    - Technical Performance Analysis
+    - Retrospectives
+    - Risk Burndown Charts
+* [Procurement](Procurement.md)
+    - Procurement Management Process
+    - Procurement Management Plan
+    - Procurement Strategy
+    - Types of Agreements
+    - Agile Contracts
+    - Contract Types
+        1. Fixed Price
+        2. Time and Material
+        3. Cost Reimbursable
+    - Advantages / Disadvantages of each contract type
+    - Customized Contracts
+    - Contract Change Control System
+    - Termination
+    - Bid Documents
+    - Make-or-buy Analysis
+    - Source Selection Criteria
+    - Noncompetetive forms of Procurement
+    - Types of Procurement statement of work (SOW)
+    - Fixed Price work Packages
+    - Closed Procurements
+    - Bidder Conferences
+    - Proposal Evaluation
+    - Risk and Contract Type
+    - Make-or-buy decisions
+    - Weighting System
+    - Independent Cost Estimates
+    - Incentives
+    - Special Provisions
+    - Standard Contract
+    - Terms and Conditions
+    - Change Requests
+    - Breach
+    - Waivers
+    - Claims
+    - Product Validation
+    - Procurement Confilicts
+    - Procurement Audit
+    - Formal Acceptance
+    - Records Management System
+    - Privity
+    - Centralized/Decentralized Contracting
+    - Price 
+    - Profit
+    - Cost
+    - Target Price
+    - Sharing ratio
+    - Ceiling Price
+    - Letter of intent
+    - Presentations
+    - Nondisclosure Agreement
+    - What makes a legal contract
+        - Force Majeure
+* [Stakeholders](Stakeholders.md)
+    - Stakeholder Definition
+    - Stakeholder Management Process
+    - Stakeholder Involvement in Projects
+        1. Identify all of them
+        2. Determine their requirements
+        3. Determine their expectations
+        4. Determine their interest
+        5. Determine their level of influence
+        6. Determine their level of authority
+        7. Incorporate their values
+        8. Plan to engage stakeholders
+        9. Plan how you will communicate with them
+        10. Manage their expectations, infulence, and engagement
+        11. Communicate with them
+        12. Monitor communications and stakeholder engagement
+    - Stakeholder Analysis
+        - Tools & Techniques used to Stakeholder Analysis
+            1. Questionnaries and Surveys
+            2. Brainstorming and Brain Writing
+        - Stakes of Stakeholder
+            1. Ownership
+            2. Knowledge
+            3. Rights
+            4. Interest
+            5. Contribution
+        - Document Analysis
+        - Stakeholder Mapping
+            1. Power / Interest Grid
+            2. Stakeholder Cube
+            3. Salience Model
+                - Power
+                - Legitimacy
+                - Urgency
+        - Types of Grouping or Classification of Stakeholders
+            1. Upward
+            2. Downward
+            3. Outward
+            4. Sideward
+        - On the basis of Salience model types of stakeholders
+            1. Dormant Stakeholder (Power)
+            2. Demanding Stakeholder (Urgency)
+            3. Discretionary Stakeholder (Legitimacy)
+            4. Dangerous Stakeholder (Power + Urgency)
+            5. Dependent Stakeholder (Urgency + Legitimacy)
+            6. Dominant Stakeholde (Legitimacy + Power)
+            7. Definitive Stakeholder (Power + Urgency + Legitimacy)
+        - Output of Stakeholder Analysis
+            1. Stakeholder Register
+            2. Personas
+            3. Change Requests
+            4. Update to Project management plan & documents like (Assumption log, Issue log, and Risk register)
+    - Stakeholder Register
+    - Stakeholder Expectations
+    - Stakeholder Engagement
+    - Project Elevator Statement
+    - Stakeholder Engagement Plan
+    - Implement Stakeholder Strategy
+    - Monitor Stakeholder Engagement
+    - Stakeholder Engagement Assessment Matrix
+    - Stakes
+    - Personas
+    - Retrospectives
 
 
 
