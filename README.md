@@ -794,43 +794,17 @@ Focus: Aligning projects with strategic business goals.
 
 
 
-* What is PMP?
-* PMP Basic Concept
+
+
+
+
+
+
 
 # How to Become a Project Manager?
-
 # PMP Certification Traning By Simplilearn
 * ACE the PMP Exam at first Attempt
 * Earn 35 PDUs | 12 Simulation Assesments | 2000+ Premium Questions
-
-
-# What is Project Management?
-# Six Constraints of Project Management
-# What is Project?
-# What is Program?
-# What is Portfolio
-# What is Project Management?
-# What is Program Management?
-# Project Management Office?
-# What is Portfolio Management?
-# Operations Management?
-# What is the Value of the Project?
-# Project Enable Changes
-# Phases & Deliverables
-# Project Life Cycle
-# Project Governance
-# Stackholders
-# Roles of a Project Manager
-# What are Milestones
-# Project Bosses
-# Product vs Project Management
-# Areas of a Project
-# Project Management Approaches
-# Organizational Structures
-# Risk vs Issues vs Assumptions vs Constraints
-# Project Constraints
-# Emotional Intelligence
-# Leadership vs Management
 
 # What is PMP?
 # Top 10 reason to get PMP Certified
@@ -846,34 +820,62 @@ Focus: Aligning projects with strategic business goals.
 # Key Skills for Project Manager
 # Project Management Methodologies
 # What is Kotter's 8 step change model?
-# Introduction to PM Principles
-# PMI Code of Ethics and Professional Conduct
-# 12 Principles of Project Management
-# Stewardship
-# Team
-# Stakeholders
-# Value
-# Systems Thinking
-# Leadership
-# Tailoring
-# Quality
-# Complexity
-# Risk
-# Adaptability & Resiliency
-# Change 
 
+
+# Project Management Terms
+* What is Project?
+* What is Program?
+* What is Portfolio
+* What is Project Management?
+* What is Program Management?
+* What is Portfolio Management?
+* Project Management Office?
+* Operations Management?
+* What is the Value of the Project?
+* Project Enable Changes
+* Phases & Deliverables
+* Project Life Cycle
+* Project Governance
+* Stackholders
+* Roles of a Project Manager
+* What are Milestones
+* Project Bosses
+* Product vs Project Management
+* Areas of a Project
+* Project Management Approaches
+* Organizational Structures
+* Risk vs Issues vs Assumptions vs Constraints
+* Project Constraints
+* Emotional Intelligence
+* Leadership vs Management
+# Project Management Principles
+* Introduction to PM Principles
+* PMI Code of Ethics and Professional Conduct
+* 12 Principles of Project Management
+* Stewardship
+* Team
+* Stakeholders
+* Value
+* Systems Thinking
+* Leadership
+* Tailoring
+* Quality
+* Complexity
+* Risk
+* Adaptability & Resiliency
+* Change 
 # Project Management Domains 
-# Project Performance Domains Intro
-# Stakeholder Performance Domain
-# Team Performance Domain
-# Development Approach Life Cycle Performance Domain
-# Planning Performance Domain
-# Work Performance Domain
-# Delivery Performance Domain
-# Measurement Performance Domain
-# Uncertainty Performance Domain
-
-# Introduction to Traditional/Predictive Project Management
+* Project Performance Domains Intro
+* Stakeholder Performance Domain
+* Team Performance Domain
+* Development Approach Life Cycle Performance Domain
+* Planning Performance Domain
+* Work Performance Domain
+* Delivery Performance Domain
+* Measurement Performance Domain
+* Uncertainty Performance Domain
+# Introduction to Traditional/Predictive Project Project Management
+# Introduction to Traditional Project Management
 # Introduction to the Process Groups
 # 49 Process of Traditional Project Management
 # 5 Process Groups
@@ -959,53 +961,52 @@ Focus: Aligning projects with strategic business goals.
 # Close Project or Phase
 
 # Agile Project Management Methods and Delivery
-# What is Agile
-# Agile vs Traditional Project Management
-# Agile Benefits
-# Inverting the Triangle
-# Agile Menifesto
-# Agile Menifesto Values
-# Individuals and intractions over processes and tools
-# Working software over comprehensive documentation
-# Customer collaboration over contract negotiation
-# Responding to change over following a plan
-# Agile Guiding Principles
-# Agile Methods
-# Agile Process
-# Scrum
-# Scrum Activities
-# Scrum Artifacts
-# Extreme Programming
-# XP Roles
-# XP Practices
-# Basic Terminology Review
-# Lean Development
-# Kanban Development
-# Other Agile Methods
-# Agile Declaration of Interdependence
-# Agile Mindset
-# Leading Effectively
-# Value Driven Delivery
-# Early Value Delivery
-# Reduce Waste
-# Assessing Value - Financial metrics
-# Accounting on Agile projects
-# Key Performance Indicators
-# Regulatory Compliance
-# Risk Management
-# How Customers Conduct Value Prioritization
-# Different Prioritization Techniques
-# Kano Analysis
-# Delivering Value Incrementally
-# Minimal Viable Product
-# Tools for Agile Projects
-# Limit WIP
-# Cumulative Flow Diagrams
-# Agile Contracting
-# Verifying & Validating
-
+* What is Agile
+* Agile vs Traditional Project Management
+* Agile Benefits
+* Inverting the Triangle
+* Agile Menifesto
+* Agile Menifesto Values
+* Individuals and intractions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change over following a plan
+* Agile Guiding Principles
+* Agile Methods
+* Agile Process
+* Scrum
+* Scrum Activities
+* Scrum Artifacts
+* Extreme Programming
+* XP Roles
+* XP Practices
+* Basic Terminology Review
+* Lean Development
+* Kanban Development
+* Other Agile Methods
+* Agile Declaration of Interdependence
+* Agile Mindset
+* Leading Effectively
+* Value Driven Delivery
+* Early Value Delivery
+* Reduce Waste
+* Assessing Value - Financial metrics
+* Accounting on Agile projects
+* Key Performance Indicators
+* Regulatory Compliance
+* Risk Management
+* How Customers Conduct Value Prioritization
+* Different Prioritization Techniques
+* Kano Analysis
+* Delivering Value Incrementally
+* Minimal Viable Product
+* Tools for Agile Projects
+* Limit WIP
+* Cumulative Flow Diagrams
+* Agile Contracting
+* Verifying & Validating
 # Agile Stakeholder Management
-# Stakeholder Stewardship
+* Stakeholder Stewardship
 # Educating People About Agile
 # Engaging Stakeholders
 # Methods of Stakeholder Engagement
@@ -1035,9 +1036,8 @@ Focus: Aligning projects with strategic business goals.
 # Training, Coaching, and Mentoring
 # Team Spaces
 # Burn and Velocity Charts
-
 # Agile Planning, Problem Resolution and Continuous Improvement
-# What is Adaptive Planning
+* What is Adaptive Planning
 # Agile Plans
 # Progressive Elaboration
 # Value Decomposition and Design the Product Box
@@ -1085,81 +1085,21 @@ Focus: Aligning projects with strategic business goals.
 # Hybrid Fit for purpose
 
 # Ethics and Professional Responsibilities
-# Professional Responsibilities and Ethics
-# Truth
-# Laws
-# Gifts and Donations
-# Permission
-# PMI
-
+* Professional Responsibilities and Ethics
+* Truth
+* Laws
+* Gifts and Donations
+* Permission
+* PMI
 # PMP Application
-# Application Introduction
-# Application Requirements
-# Members vs Non-members Cost
-# Starting the Application
-# PM Experience
-# Writing the Description
-# Writing the Description Using AI
-# PMI Audit
-
-
-
-
-
-
-
-
-
-
-Virtual Instructor-Led Training (VILT) Topics Covered:-
-
-# Project Management Office (PMO)
-# Agile Centers of Excellence (ACoEs) / Value Delivery Office (VDO)
-# Organizational Structures
-    * Functional
-    * Matrix
-    * Project Oriented
-# Agile Manifesto
-    * 4 Values
-        - Individuals & Interactions Over (Over Processes and tools)  
-        - Working Software Over (Over Comprehensive Documentation)
-        - Customer Collaboration Over (Contract Negotiation)
-        - Responding to Change Over (Following a Plan)
-    * 12 Agile Principles
-# Principle Behind the Agile Manifesto
-# Burn Down Chart
-# Project Approach
-# Predictive
-# Adaptive / Iterative
-# Hybrid
-# Project Governance
-# Typical Project Stakeholders
-# Stakeholder Management
-# Communication Management
-# Expert Judgement
-# Stakeholder Engagement Strategy
-# Forming Team
-# Project Team Composition
-# Project Manager Role
-# Tuckman's Ladder of Team Development
-# Build Shared Understanding
-# Kano Model
-# MoSCoW
-# Scope Management Plan
-# The Project Schedule
-# Gantt Chart
-# Crashing
-# Schedule Baseline
-# Cost Management
-# Budget
-# Cost Baseline
-# Cost Estimation
-# Management Reserve
-# Contingency Reserve
-# Earned Value Management
-# Quality
-# Quality Metrics
-# Cost Of Quality 
+* Application Introduction
+* Application Requirements
+* Members vs Non-members Cost
+* Starting the Application
+* PM Experience
+* Writing the Description
+* Writing the Description Using ChatGPT (AI) in under 5 minutes
+* PMI Audit
 
 # CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
 # SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
