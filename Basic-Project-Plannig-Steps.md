@@ -86,5 +86,3 @@
 ### 🔁 BONUS: **Review & Tailor as Needed**
 
 * Based on project type (Agile, Hybrid, Waterfall), **adjust your planning style**
-
----

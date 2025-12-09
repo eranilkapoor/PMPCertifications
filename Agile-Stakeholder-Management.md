@@ -1,7 +1,5 @@
 # 📘 **AGILE STAKEHOLDER MANAGEMENT – FULL EXPLANATION**
 
----
-
 # ⭐ 1. **Stakeholder Stewardship**
 
 Stakeholder stewardship means **acting in the best interest of stakeholders** by:
@@ -414,5 +412,3 @@ Helps with:
 
 * Forecasting
 * Planning future sprints
-
----

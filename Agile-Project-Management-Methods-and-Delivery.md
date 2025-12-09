@@ -507,5 +507,3 @@ Contract types supporting agile:
 Example:
 Verification → QA testing
 Validation → Sprint Review with customer
-
----

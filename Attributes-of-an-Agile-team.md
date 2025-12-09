@@ -56,5 +56,3 @@ An **Agile team** is built differently from traditional project teams. It has un
 
 ✅ **In short:**
 An Agile team is **self-organizing, cross-functional, empowered, collaborative, adaptable, transparent, customer-focused, and continuously improving.**
-
----
