@@ -1,7 +1,5 @@
 # 📘 **AGILE PLANNING, PROBLEM RESOLUTION & CONTINUOUS IMPROVEMENT**
 
----
-
 # ⭐ 1. **What is Adaptive Planning?**
 
 Adaptive planning means **planning iteratively and updating the plan based on feedback**, not making a fixed, rigid plan at the beginning.
@@ -420,5 +418,3 @@ Teams evaluate themselves on:
 * Quality
 
 Helps track team maturity.
-
----
