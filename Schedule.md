@@ -1,7 +1,5 @@
 # 🕒 **Project Schedule Management** (PMBOK® – Knowledge Area #6)
 
----
-
 ## 🎯 **Definition:**
 
 > Project Schedule Management involves the **processes required to manage the timely completion** of the project.
@@ -300,8 +298,6 @@ Let’s say you’re managing a **Game App Development** project.
 
 
 # 🕐 **Project Schedule Management (PMP Knowledge Area)**
-
----
 
 ## 🧭 **Purpose**
 
@@ -706,5 +702,3 @@ Testing took longer due to device lag → re-estimate future sprints accordingly
 | Estimating            | Forecast durations          | Analogous / Parametric     |
 | Resource Optimization | Manage workload             | Level developer effort     |
 | Velocity              | Agile speed                 | 21 story points per sprint |
-
----

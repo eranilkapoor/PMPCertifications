@@ -129,7 +129,3 @@ A mid-size game development studio (let’s call it *PixelForge*) has traditiona
 [7] Acceleration→ Rollout to more teams
 [8] Anchor      → Agile embedded in culture
 ```
-
----
-
-Would you like a **downloadable visual diagram**, **PowerPoint slide**, or **template** to use this model in your own project or client consultation?

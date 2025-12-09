@@ -630,5 +630,3 @@ QA verifies the “Invite Friends” feature → Sponsor accepts it.
 | Create WBS            | Scope Baseline          | Decomposition         |
 | Validate Scope        | Accepted Deliverables   | Inspections           |
 | Control Scope         | Change Requests         | Variance Analysis     |
-
----

@@ -265,11 +265,3 @@ Ensure physical resources are available and used as planned, monitor for over/un
 * Democratic or Participative
 * Bureaucratic
 * Analytical
-
-1>D
-2>A
-3>A
-4>D
-5>D
-6>D
-7>

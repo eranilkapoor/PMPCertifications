@@ -275,5 +275,3 @@ You are managing a city metro construction project:
 * **Resource Management** → Helps assign stakeholder responsibilities.
 * **Risk Management** → Some stakeholders are sources of project risk.
 * **Integration Management** → Ensures alignment between project goals and stakeholder expectations.
-
----

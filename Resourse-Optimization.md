@@ -1,7 +1,3 @@
-Great question 👍 PMP has a clear section on **Resource Optimization Techniques** — you’ll definitely see this in exam questions under **Schedule Management** & **Resource Management**.
-
----
-
 # **Resource Optimization Techniques**
 
 These are techniques used to **balance demand and availability of resources** (people, equipment, materials).
@@ -75,5 +71,3 @@ Two key methods are:
 
 * **Leveling = Longer project** (critical path can change).
 * **Smoothing = Same project duration** (use float to optimize).
-
----

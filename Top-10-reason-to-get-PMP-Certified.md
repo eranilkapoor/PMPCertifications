@@ -1,4 +1,4 @@
-Here are the **top 10 reasons to get PMP® (Project Management Professional) certified**:
+# **Top 10 reasons to get PMP® (Project Management Professional) certified**:
 
 ---
 

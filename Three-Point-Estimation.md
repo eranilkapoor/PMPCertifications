@@ -97,5 +97,3 @@ E = \frac{3 + 4(6) + 15}{6} = \frac{42}{6} = 7 \text{ days}
 $$
 
 Answer: **7 days**
-
----

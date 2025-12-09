@@ -1,7 +1,5 @@
 # ⚠️ **Project Risk Management**
 
----
-
 ## 🎯 **Purpose**
 
 To **identify, analyze, and manage potential risks (positive or negative)** that may impact the project’s objectives — scope, schedule, cost, and quality.

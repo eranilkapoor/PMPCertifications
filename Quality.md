@@ -164,20 +164,6 @@ Represents the total cost to ensure quality.
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🎯 **Quality Management Knowledge Area (PMBOK)**
 
 **Objective:**
@@ -562,5 +548,3 @@ If 7 samples show 2.6s → process is **out of control**.
 | **Tools**                   | Pareto, Cause-effect, Control charts, Checklists                 |
 | **Focus**                   | Customer satisfaction, defect prevention, continuous improvement |
 | **Output**                  | Quality reports, change requests, verified deliverables          |
-
----

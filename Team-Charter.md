@@ -123,5 +123,3 @@ It includes the **Project Manager, core team members, supporting roles, and some
   * **Acquire Resources**
   * **Develop Team**
   * **Manage Team**
-
----

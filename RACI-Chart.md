@@ -55,5 +55,3 @@ It prevents confusion by showing **who is responsible for what**.
 * **Only one “A” per task** → accountability cannot be shared.
 * "R" can be multiple, but too many Rs cause inefficiency.
 * RACI is often tested with situational questions like: *“Who should sign off the deliverable?” → The one marked as **A (Accountable)**.*
-
----

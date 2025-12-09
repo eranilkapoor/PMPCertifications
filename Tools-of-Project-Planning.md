@@ -1,6 +1,4 @@
-Here are the **top tools for project planning**, categorized by type and use case. These tools help manage tasks, timelines, resources, budgets, and collaboration effectively.
-
----
+# **Top tools for project planning**
 
 ## ✅ **1. Microsoft Project**
 
@@ -94,10 +92,6 @@ Here are the **top tools for project planning**, categorized by type and use cas
 
 ---
 
-Great! Here's a list of **core project planning tools and techniques** that are fundamental to PMP and widely used in project management:
-
----
-
 ## 🔧 **Core Tools & Techniques for Project Planning**
 
 ### 1. 🗂️ **Work Breakdown Structure (WBS)**
@@ -186,5 +180,3 @@ Great! Here's a list of **core project planning tools and techniques** that are 
 | RACI, Resource Histogram | Resource Planning        |
 | Cost Baseline            | Cost Planning            |
 | Milestone Chart          | Progress & Communication |
-
----
