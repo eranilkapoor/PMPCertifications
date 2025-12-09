@@ -1,7 +1,3 @@
-Perfect 👍 This is an important **Schedule Management** concept in PMP — you’ll often see questions on **Float, Free Float, Total Float, and Slack**. Let’s break it down clearly with examples.
-
----
-
 # **1. Float (General Term)**
 
 Float = The amount of time an activity can be **delayed** without affecting something else.
@@ -115,5 +111,3 @@ Suppose you have a project with these activities:
 
 ✅ **Exam Tip:**
 If the question says **“float” without specifying** → they usually mean **Total Float**.
-
----

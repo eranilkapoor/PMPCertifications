@@ -76,5 +76,3 @@ In **PMP (Project Management Professional)**, **estimating techniques** are used
 | Three-Point (PERT) | When uncertainty is significant       | Medium-High          |
 | Expert Judgment    | Complex or new activities             | Depends on expertise |
 | Reserve Analysis   | To account for risk                   | Improves reliability |
-
----

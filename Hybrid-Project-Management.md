@@ -204,5 +204,3 @@ A hybrid model is “fit for purpose.”
 # 🧠 Summary in One Line
 
 **Hybrid = Predictability where needed + Agility where possible.**
-
----

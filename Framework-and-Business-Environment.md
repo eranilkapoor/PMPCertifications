@@ -65,8 +65,6 @@ The **Business Environment** refers to the **external and internal factors** tha
 
 ---
 
----
-
 # 📌 **Plan and Manage Project Compliance**
 
 ## ✅ 1. Confirm project compliance requirements
@@ -180,8 +178,6 @@ If the exam asks *“What should the project manager do FIRST when handling comp
 
 ---
 
----
-
 # 📌 **Evaluate and Deliver Project Benefits and Value**
 
 ## ✅ 1. Investigate that benefits are identified
@@ -278,8 +274,6 @@ If the exam asks *“What should the project manager do FIRST when handling comp
 
 ---
 
----
-
 # 📌 **Evaluate and Address External Business Environment Changes for Impact on Scope**
 
 ## ✅ 1. Survey changes to external business environment
@@ -371,8 +365,6 @@ If the exam asks *“What should the project manager do FIRST when handling comp
 * Always link to **scope, schedule, and cost impacts**.
 * In **Agile projects**, backlog refinement sessions are the best place to adapt scope quickly.
 * PM should **recommend** → sponsor & stakeholders **decide**.
-
----
 
 ---
 

@@ -2,7 +2,7 @@
 
 PMP expects project managers to follow the **PMI Code of Ethics & Professional Conduct**, which is based on **four core values: Responsibility, Respect, Fairness, and Honesty**.
 
-Let’s explain each section from your list.
+Let’s explain each section.
 
 ---
 
@@ -125,5 +125,3 @@ PMI’s ethical guidelines include:
 | **Gifts & Donations**                      | Avoid gifts that influence decisions               | Reject expensive gifts                         |
 | **Permission**                             | Get approval before sharing/using data             | Don’t share confidential docs without approval |
 | **PMI**                                    | Follow PMI ethical code; 4 values                  | Maintain fairness, honesty                     |
-
----
