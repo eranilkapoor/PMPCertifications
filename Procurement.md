@@ -1,7 +1,5 @@
 # 🧾 **Project Procurement Management**
 
----
-
 ## 🎯 **Purpose**
 
 The purpose of this knowledge area is to **purchase or acquire products, services, or results** needed from outside the project team.
@@ -294,11 +292,6 @@ You’re managing a construction project:
 * Plan Procurements
 * Conduct Procurements
 * Managing Procurements
-
-
-Excellent 👏 — this is one of the **most comprehensive and high-level PMP Procurement Management** topics lists you could ask for.
-
-Let’s go through **each concept in order**, breaking it down clearly — with PMP terms, definitions, and real-world examples (especially useful for product/software/game projects like yours).
 
 ---
 
@@ -790,5 +783,3 @@ If a lockdown halts server setup, vendor not penalized due to Force Majeure clau
 | **Plan Procurement Management** | Procurement Mgmt Plan, Make-or-Buy Decisions, Bid Docs      |
 | **Conduct Procurements**        | Selected Sellers, Agreements                                |
 | **Control Procurements**        | Closed Procurements, Work Performance Info, Change Requests |
-
----

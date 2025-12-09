@@ -1,7 +1,3 @@
-Great topic 👍 Let’s break it down clearly.
-
----
-
 ## **Project Calendar (in PMP / PMBOK® Guide)**
 
 A **Project Calendar** is a calendar that defines the **working days, non-working days, and shifts** for the **entire project**.
@@ -40,7 +36,3 @@ So, the **project calendar** defines the **default working time for the entire p
 * **Project Calendar** = governs **when project work happens**.
 * **Resource Calendar** = governs **when individual resources are available**.
 * Tools like **MS Project** or **Primavera** use project calendars to schedule tasks properly.
-
----
-
-Would you like me to also **draw a sample weekly Project Calendar** (like a table showing working vs non-working days) for easy visualization?

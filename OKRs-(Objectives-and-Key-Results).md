@@ -53,5 +53,3 @@ They help answer 2 questions:
 * Encourages focus and prioritization.
 * Builds accountability with measurable outcomes.
 * Promotes agility by reviewing progress regularly.
-
----

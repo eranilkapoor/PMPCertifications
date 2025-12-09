@@ -92,5 +92,3 @@ Here's a **side-by-side comparison of PMBOK® Guide 6th Edition vs 7th Edition**
 
 * PMBOK 6 is still **relevant** for understanding foundational processes (especially for predictive projects).
 * PMBOK 7 reflects the **modern, adaptable reality** of project management, with a flexible approach for today's dynamic environments.
-
----

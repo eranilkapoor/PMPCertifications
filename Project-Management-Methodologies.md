@@ -123,7 +123,3 @@ Here’s a **side-by-side comparison table** of major project management methodo
 | Process improvement           | Lean / Six Sigma        |
 | Resource-constrained projects | CCPM / Hybrid           |
 | Continuous delivery teams     | Kanban / Scrum          |
-
----
-
-Let me know your project type or industry (e.g., **game development**, **CRM**, **e-commerce**, **construction**, etc.), and I can help you select the most suitable methodology in detail.

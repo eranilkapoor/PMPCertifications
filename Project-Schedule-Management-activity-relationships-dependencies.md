@@ -49,9 +49,6 @@ There are **four types of logical relationships**:
 * **SS** – Start depends on Start.
 * **SF** – Rare! Finish depends on Start.
 
-
-Great question 👍 — this is one of the areas that **frequently shows up in PMP exams**. Let’s break it down clearly.
-
 ---
 
 # **Precedence Diagramming Method (PDM) Relationships**
@@ -137,5 +134,3 @@ They often give you a real-world scenario and ask you **which PDM relationship a
 * B. Finish-to-Finish
 * C. Start-to-Start ✅
 * D. Start-to-Finish
-
----

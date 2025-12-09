@@ -1,4 +1,3 @@
-Excellent 👏 — this is one of the **most important knowledge areas** in PMP:
 👉 **Project Integration Management**
 
 It’s called the *"umbrella process"* because it **ties together all other knowledge areas** (scope, schedule, cost, quality, risk, procurement, stakeholders, etc.) into one coherent whole.
@@ -245,16 +244,6 @@ Closure ensures nothing is left hanging — it formally ends responsibility for 
 | Monitor & Control Project Work    | Track performance     | Performance Reports      |
 | Perform Integrated Change Control | Manage changes        | Approved Change Requests |
 | Close Project or Phase            | Finalize & document   | Final Product / Report   |
-
----
-
-
-
-
-
-
-
-
 
 # 🧭 **Project Integration Management (PMP Knowledge Area)**
 
@@ -606,5 +595,3 @@ Kickoff for your Game App with team, sponsor, and vendor discussing timeline, te
 | **Work Authorization System** | Approve start of work                 | PM approval to dev team       |
 | **Lessons Learned**           | Capture insights for future           | Postmortem after release      |
 | **Kickoff Meeting**           | Align all stakeholders                | Initial project sync          |
-
----

@@ -1,7 +1,3 @@
-Here's a breakdown of the **PMP Exam Pattern** (as per the latest PMI update):
-
----
-
 ## 📘 **PMP Exam Overview**
 
 ### 🧠 **Total Questions:**

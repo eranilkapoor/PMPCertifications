@@ -1,7 +1,3 @@
-Great question 👌 — let’s go deep into **Project Management Lifecycles**, since it’s a key PMP exam topic.
-
----
-
 # 🔹 What is a Project Management Lifecycle?
 
 The **Project Management Lifecycle (PMLC)** describes the **phases a project goes through** from initiation to closure. It provides a **structured framework** to manage work, resources, risks, and deliverables.
@@ -114,5 +110,3 @@ Different projects require different lifecycles depending on:
 * Use **Predictive** when requirements are well known.
 * Use **Adaptive/Agile** when requirements are uncertain.
 * Use **Hybrid** when some parts are predictable and others need flexibility.
-
----

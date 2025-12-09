@@ -1,6 +1,4 @@
-Here are the **key skills every Project Manager (PM)** must have to successfully lead and deliver projects across any domain:
-
----
+# **key skills every Project Manager (PM)**
 
 ## 🎯 **Top 12 Key Skills for Project Managers**
 
@@ -85,5 +83,3 @@ Here are the **key skills every Project Manager (PM)** must have to successfully
 
 * Understand the domain (IT, Construction, Marketing, etc.)
 * Use project management tools (MS Project, Jira, Asana, etc.)
-
----

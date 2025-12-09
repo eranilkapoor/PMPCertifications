@@ -335,5 +335,3 @@ During processes, documents or plans get updated.
 
 Example:
 New stakeholder identified → update **Stakeholder Register**.
-
----

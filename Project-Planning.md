@@ -43,5 +43,3 @@
 * Reduces **risks, delays, and cost overruns**
 * Provides a **blueprint for execution and monitoring**
 * Increases the **likelihood of project success**
-
----

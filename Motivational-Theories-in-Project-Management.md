@@ -1,6 +1,4 @@
-Got it 👍 — when you say **“Theory”** in PMP context, most likely you’re referring to the **Motivational Theories** that PMI expects project managers to understand, because they help in **team management**.
-
-Here are the main **Theories in PMP** (very exam-relevant):
+**Motivational Theories** that PMI expects project managers to understand, because they help in **team management**.
 
 ---
 
@@ -103,7 +101,3 @@ Perfect 👍 I’ll give you a **side-by-side comparison table** of all the majo
 * **McClelland** → Match tasks to needs.
 * **Expectancy (Vroom)** → Effort → Performance → Reward.
 * **Theory Z** → Long-term loyalty & teamwork.
-
----
-
-👉 Would you like me to also create a **visual infographic (pyramid + matrix + flow)** combining these theories so you can revise in one glance before the exam?

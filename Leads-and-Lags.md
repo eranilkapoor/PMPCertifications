@@ -1,4 +1,4 @@
-Perfect follow-up 👌 — because **Leads & Lags** often appear with **PDM relationships** in PMP exam questions. Let’s go step by step.
+**Leads & Lags** often appear with **PDM relationships** in PMP exam questions. Let’s go step by step.
 
 ---
 
@@ -59,5 +59,3 @@ In simple terms: **“Add waiting time between activities.”**
 * B. Lag ✅
 * C. Fast tracking
 * D. Crashing
-
----

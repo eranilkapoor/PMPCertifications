@@ -1,4 +1,4 @@
-Good question 👍. The **PMP application project description** is very important because PMI uses it to verify that you have real project management experience across the five **Process Groups** (Initiating, Planning, Executing, Monitoring & Controlling, Closing).
+**PMP application project description** is very important because PMI uses it to verify that you have real project management experience across the five **Process Groups** (Initiating, Planning, Executing, Monitoring & Controlling, Closing).
 
 ---
 
@@ -33,10 +33,6 @@ Your description should:
 * Emphasize your **leadership & management**, not technical work.
 * Avoid jargon—keep it simple, PMI reviewers are generalists.
 * Each project description must clearly show **coverage of all 5 process groups**.
-
----
-
-Perfect 👍 Here’s a **ready-to-use PMP Project Description Template** you can fill in with your own project details. I’ll also give you an **example** alongside it so you see how to write yours.
 
 ---
 
@@ -76,5 +72,3 @@ Perfect 👍 Here’s a **ready-to-use PMP Project Description Template** you ca
 2. Keep it **concise and action-oriented** (use verbs like *led, developed, managed, coordinated, delivered*).
 3. Ensure each description shows your role across **all 5 process groups**.
 4. Keep within PMI’s **550-character limit per project** (you may need to shorten sentences).
-
----
