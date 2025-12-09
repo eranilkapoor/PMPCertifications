@@ -1,7 +1,4 @@
-Good question 👍
-If you’re preparing from an **Agile Practitioner (PMI-ACP® / Agile mindset)** perspective, the **top priorities** are guided by the **Agile Manifesto** and its **12 principles**.
-
-Here are the **Top Priorities of an Agile Practitioner** (summarized):
+# Top Priorities of an Agile Practitioner
 
 ---
 
