@@ -1,7 +1,3 @@
-Great question 👍 This is a **high-weight topic in PMP** under **Procurement Management**. Let me break it down step by step for you in exam-friendly terms.
-
----
-
 # **What is a Contract?**
 
 A **contract** is a legally binding agreement between a **buyer** and a **seller** that defines:
@@ -121,7 +117,7 @@ There are **three major categories** (with subtypes):
 
 ---
 
-Perfect 👌 let’s go deeper with **real-life numerical examples** for each contract type + their **use in Agile projects** (important for PMP Exam).
+Let’s go deeper with **real-life numerical examples** for each contract type + their **use in Agile projects** (important for PMP Exam).
 
 ---
 
@@ -221,5 +217,3 @@ Perfect 👌 let’s go deeper with **real-life numerical examples** for each co
 * **Agile contracts** → prefer **T&M** or **Cost Reimbursable** (with agile governance like frequent reviews, backlog reprioritization).
 * **Predictive (Waterfall)** → prefer **Fixed Price** when requirements are stable.
 * **Hybrid projects** may combine: Fixed Price for core deliverables + T&M for evolving parts.
-
----

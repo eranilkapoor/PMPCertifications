@@ -1,12 +1,4 @@
-Excellent — You’re progressing through the PMP knowledge areas systematically 👏
-
-Now let’s dive deep into another **core area of project management** —
-
----
-
 # 💰 **Project Cost Management (PMBOK® – Knowledge Area #7)**
-
----
 
 ## 🎯 **Definition**
 
@@ -266,52 +258,6 @@ Now calculate:
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 🧩 **Cost Management Overview**
 
 **Purpose:**
@@ -493,5 +439,3 @@ You are **10% over budget and 20% behind schedule**.
 | **Control Costs**        | Monitor and manage cost performance                 |
 | **Tools**                | EVM, variance analysis, forecasting                 |
 | **Outputs**              | Cost baseline, performance reports, change requests |
-
----

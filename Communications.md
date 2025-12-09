@@ -1,7 +1,5 @@
 # 🗣️ **Project Communications Management**
 
----
-
 ## 🎯 **Purpose**
 
 To ensure that **project information is planned, collected, created, distributed, stored, and managed properly** so that **stakeholders receive the right information at the right time in the right format**.
