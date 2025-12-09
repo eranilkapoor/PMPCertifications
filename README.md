@@ -874,232 +874,231 @@ Focus: Aligning projects with strategic business goals.
 * Delivery Performance Domain
 * Measurement Performance Domain
 * Uncertainty Performance Domain
-# Introduction to Traditional/Predictive Project Project Management
-# Introduction to Traditional Project Management
-# Introduction to the Process Groups
-# 49 Process of Traditional Project Management
-# 5 Process Groups
-# Process ITTOs
-# Enterprise Environmental Factors (EEF)
-# Organization Process Assets
-# Project Documents 
-# Project Management Plan
-# Expert Judgement
-# Data Gathering, Analysis, Representation, and Decision Making
-# Interpersonal and Team Skills
-# Meetings
-# PMIS
-# Change Request
-# Work Performance Data, Info & Report
-# Updates  
 
-# Processes to Manage a Traditional/Predictive Project
-# Develop Project Charter
-# Identify Stakeholders
-# Develop Project Management Plan
-# Plan Scope Management
-# Collect Requirements
-# Define Scope
-# Create WBS
-# Plan Schedule Management
-# Define Activities
-# Sequence Activities
-# Estimate Activity Durations
-# PERT Formula
-# Develop Schedule
-# Critical Path Method Intro
-# Critical Path Method
-# Calculate float or slack
-# Forward Pass
-# Backward Pass
-# Free Float
-# CPM Practise Examples
-# Plan Cost Management
-# Estimate Cost
-# Determine Budget
-# Plan Quality Management
-# Plan Resources Management
-# Estimate Activity Resources
-# Plan Communication Management
-# Plan Risk Management
-# Itentify Risks
-# Perform Qualitative Risk Analysis
-# Perform Quantitative Risk Analysis
-# Plan Risk Response
-# Plan Procurement Management
-# Plan Stackholder Management
-# End of Planning
-# Executing
-# Direct and Manage Project Work
-# Manage Project Knowledge
-# Manage Quality
-# Acquire Resources
-# Develop Team
-# OSCAR Model
-# Drexler Sibbet Team Model
-# Manage Team
-# People Management Terms
-# MBTI
-# Project Communications
-# Implement Risk Responses
-# Conduct Procurements
-# Manage Stackholder Engagement
-# End of Executing
-# Intro to Monitoring & Controlling
-# Monitor and Control Project Work
-# Perform Integrated Change Control
-# Validate Scope
-# Control Scope, Schedule Cost
-# Earned Value Management
-# Formulas & Calculation of Earned Value Management
-# Control Quality
-# Control Resources
-# Monitor Communication
-# Monitor Risk
-# Control Procurements
-# Monitor Stackholder Engagement
-# Close Project or Phase
+* [Introduction to Traditional/Predictive Project Project Management](Introduction-to-Traditional-Predictive-Project-Project-Management.md)
+    - Introduction to Traditional Project Management
+    - Introduction to the Process Groups
+    - 49 Process of Traditional Project Management
+    - 5 Process Groups
+    - Process ITTOs
+    - Enterprise Environmental Factors (EEF)
+    - Organization Process Assets
+    - Project Documents 
+    - Project Management Plan
+    - Expert Judgement
+    - Data Gathering, Analysis, Representation, and Decision Making
+    - Interpersonal and Team Skills
+    - Meetings
+    - PMIS
+    - Change Request
+    - Work Performance Data, Info & Report
+    - Updates  
 
-# Agile Project Management Methods and Delivery
-* What is Agile
-* Agile vs Traditional Project Management
-* Agile Benefits
-* Inverting the Triangle
-* Agile Menifesto
-* Agile Menifesto Values
-* Individuals and intractions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan
-* Agile Guiding Principles
-* Agile Methods
-* Agile Process
-* Scrum
-* Scrum Activities
-* Scrum Artifacts
-* Extreme Programming
-* XP Roles
-* XP Practices
-* Basic Terminology Review
-* Lean Development
-* Kanban Development
-* Other Agile Methods
-* Agile Declaration of Interdependence
-* Agile Mindset
-* Leading Effectively
-* Value Driven Delivery
-* Early Value Delivery
-* Reduce Waste
-* Assessing Value - Financial metrics
-* Accounting on Agile projects
-* Key Performance Indicators
-* Regulatory Compliance
-* Risk Management
-* How Customers Conduct Value Prioritization
-* Different Prioritization Techniques
-* Kano Analysis
-* Delivering Value Incrementally
-* Minimal Viable Product
-* Tools for Agile Projects
-* Limit WIP
-* Cumulative Flow Diagrams
-* Agile Contracting
-* Verifying & Validating
-# Agile Stakeholder Management
-* Stakeholder Stewardship
-# Educating People About Agile
-# Engaging Stakeholders
-# Methods of Stakeholder Engagement
-# Agile Chartering
-# Definition Of Done
-# Set a Shared Vision
-# Agile Modeling
-# Personas
-# Communicating with Stakeholders
-# Green Zone & Red Zone
-# How to Conduct a Workshop
-# Brainstorming
-# Collaboration Games
-# Using Critical Soft Skills
-# Emotional Intelligence
-# Negotiation
-# Active Listening
-# Facilitation
-# Conflict Resolution
-# Participatory Decision Models
-# People Over Processes
-# Development Team Roles
-# Building Agile Teams
-# Safe Place
-# Models of Team Development
-# Tuckman Five Stages of Team Development
-# Training, Coaching, and Mentoring
-# Team Spaces
-# Burn and Velocity Charts
-# Agile Planning, Problem Resolution and Continuous Improvement
-* What is Adaptive Planning
-# Agile Plans
-# Progressive Elaboration
-# Value Decomposition and Design the Product Box
-# Coarse Requirements
-# Timeboxing
-# Estimation
-# Ideal Time
-# User Stories
-# User Story Backlog
-# Assigning points to the stories using Fibonacci Sequence
-# Story Points and T-Shirt Sizing
-# Wideband Delphi
-# Using Planning Poker to Assign Story Points
-# Story Maps and Product Roadmaps
-# Iterations and Spikes
-# Iteration and Release Planning
-# Understand How Problems Happens
-# Technical Debt
-# Success and Failure Modes
-# Lead Time and Cycle Time
-# Defects
-# Variances and Control Limits
-# Risk Management
-# Fixing Problems
-# Kaizen
-# Customize Processes
-# Value Stream Maps
-# Project Pre-Mortems
-# Retrospective Intro
-# Set The Stage
-# Gather Data
-# Generate Insights
-# Decide what to to do
-# Close the Retrospective
-# Team Self Assessment
+* [Processes to Manage a Traditional/Predictive Project](Processes-to-Manage-a-Traditional-Predictive-Project.md)
+    - Develop Project Charter
+    - Identify Stakeholders
+    - Develop Project Management Plan
+    - Plan Scope Management
+    - Collect Requirements
+    - Define Scope
+    - Create WBS
+    - Plan Schedule Management
+    - Define Activities
+    - Sequence Activities
+    - Estimate Activity Durations
+    - PERT Formula
+    - Develop Schedule
+    - Critical Path Method Intro
+    - Critical Path Method
+    - Calculate float or slack
+    - Forward Pass
+    - Backward Pass
+    - Free Float
+    - CPM Practise Examples
+    - Plan Cost Management
+    - Estimate Cost
+    - Determine Budget
+    - Plan Quality Management
+    - Plan Resources Management
+    - Estimate Activity Resources
+    - Plan Communication Management
+    - Plan Risk Management
+    - Itentify Risks
+    - Perform Qualitative Risk Analysis
+    - Perform Quantitative Risk Analysis
+    - Plan Risk Response
+    - Plan Procurement Management
+    - Plan Stackholder Management
+    - End of Planning
+    - Executing
+    - Direct and Manage Project Work
+    - Manage Project Knowledge
+    - Manage Quality
+    - Acquire Resources
+    - Develop Team
+    - OSCAR Model
+    - Drexler Sibbet Team Model
+    - Manage Team
+    - People Management Terms
+    - MBTI
+    - Project Communications
+    - Implement Risk Responses
+    - Conduct Procurements
+    - Manage Stackholder Engagement
+    - End of Executing
+    - Intro to Monitoring & Controlling
+    - Monitor and Control Project Work
+    - Perform Integrated Change Control
+    - Validate Scope
+    - Control Scope, Schedule Cost
+    - Earned Value Management
+    - Formulas & Calculation of Earned Value Management
+    - Control Quality
+    - Control Resources
+    - Monitor Communication
+    - Monitor Risk
+    - Control Procurements
+    - Monitor Stackholder Engagement
+    - Close Project or Phase
 
-# Hybrid Project Management
-# Hybrid Introduction
-# Definable vs Uncertainty
-# Four Life Cycles
-# Hybrid Method 1
-# Hybrid Method 2
-# Hybrid Method 3
-# Hybrid Method 4
-# Hybrid Fit for purpose
-
-# Ethics and Professional Responsibilities
-* Professional Responsibilities and Ethics
-* Truth
-* Laws
-* Gifts and Donations
-* Permission
-* PMI
-# PMP Application
-* Application Introduction
-* Application Requirements
-* Members vs Non-members Cost
-* Starting the Application
-* PM Experience
-* Writing the Description
-* Writing the Description Using ChatGPT (AI) in under 5 minutes
-* PMI Audit
+* [Agile Project Management Methods and Delivery](Agile-Project-Management-Methods-and-Delivery.md)
+    - What is Agile
+    - Agile vs Traditional Project Management
+    - Agile Benefits
+    - Inverting the Triangle
+    - Agile Menifesto
+    - Agile Menifesto Values
+    - Individuals and intractions over processes and tools
+    - Working software over comprehensive documentation
+    - Customer collaboration over contract negotiation
+    - Responding to change over following a plan
+    - Agile Guiding Principles
+    - Agile Methods
+    - Agile Process
+    - Scrum
+    - Scrum Activities
+    - Scrum Artifacts
+    - Extreme Programming
+    - XP Roles
+    - XP Practices
+    - Basic Terminology Review
+    - Lean Development
+    - Kanban Development
+    - Other Agile Methods
+    - Agile Declaration of Interdependence
+    - Agile Mindset
+    - Leading Effectively
+    - Value Driven Delivery
+    - Early Value Delivery
+    - Reduce Waste
+    - Assessing Value - Financial metrics
+    - Accounting on Agile projects
+    - Key Performance Indicators
+    - Regulatory Compliance
+    - Risk Management
+    - How Customers Conduct Value Prioritization
+    - Different Prioritization Techniques
+    - Kano Analysis
+    - Delivering Value Incrementally
+    - Minimal Viable Product
+    - Tools for Agile Projects
+    - Limit WIP
+    - Cumulative Flow Diagrams
+    - Agile Contracting
+    - Verifying & Validating
+* [Agile Stakeholder Management](Agile-Stakeholder-Management.md)
+    - Stakeholder Stewardship
+    - Educating People About Agile
+    - Engaging Stakeholders
+    - Methods of Stakeholder Engagement
+    - Agile Chartering
+    - Definition Of Done
+    - Set a Shared Vision
+    - Agile Modeling
+    - Personas
+    - Communicating with Stakeholders
+    - Green Zone & Red Zone
+    - How to Conduct a Workshop
+    - Brainstorming
+    - Collaboration Games
+    - Using Critical Soft Skills
+    - Emotional Intelligence
+    - Negotiation
+    - Active Listening
+    - Facilitation
+    - Conflict Resolution
+    - Participatory Decision Models
+    - People Over Processes
+    - Development Team Roles
+    - Building Agile Teams
+    - Safe Place
+    - Models of Team Development
+    - Tuckman Five Stages of Team Development
+    - Training, Coaching, and Mentoring
+    - Team Spaces
+    - Burn and Velocity Charts
+* [Agile Planning, Problem Resolution and Continuous Improvement](Agile-Planning-Problem-Resolution-and-Continuous-Improvement.md)
+    - What is Adaptive Planning
+    - Agile Plans
+    - Progressive Elaboration
+    - Value Decomposition and Design the Product Box
+    - Coarse Requirements
+    - Timeboxing
+    - Estimation
+    - Ideal Time
+    - User Stories
+    - User Story Backlog
+    - Assigning points to the stories using Fibonacci Sequence
+    - Story Points and T-Shirt Sizing
+    - Wideband Delphi
+    - Using Planning Poker to Assign Story Points
+    - Story Maps and Product Roadmaps
+    - Iterations and Spikes
+    - Iteration and Release Planning
+    - Understand How Problems Happens
+    - Technical Debt
+    - Success and Failure Modes
+    - Lead Time and Cycle Time
+    - Defects
+    - Variances and Control Limits
+    - Risk Management
+    - Fixing Problems
+    - Kaizen
+    - Customize Processes
+    - Value Stream Maps
+    - Project Pre-Mortems
+    - Retrospective Intro
+    - Set The Stage
+    - Gather Data
+    - Generate Insights
+    - Decide what to to do
+    - Close the Retrospective
+    - Team Self Assessment
+* [Hybrid Project Management](Hybrid-Project-Management.md)
+    - Hybrid Introduction
+    - Definable vs Uncertainty
+    - Four Life Cycles
+    - Hybrid Method 1
+    - Hybrid Method 2
+    - Hybrid Method 3
+    - Hybrid Method 4
+    - Hybrid Fit for purpose
+* [Ethics and Professional Responsibilities](Ethics-and-Professional-Responsibilities.md)
+    - Professional Responsibilities and Ethics
+    - Truth
+    - Laws
+    - Gifts and Donations
+    - Permission
+    - PMI
+* PMP Application
+    - Application Introduction
+    - Application Requirements
+    - Members vs Non-members Cost
+    - Starting the Application
+    - PM Experience
+    - Writing the Description
+    - Writing the Description Using ChatGPT (AI) in under 5 minutes
+    - PMI Audit
 
 # CPI (Cost Performance Index) = EV/AC = (Earned Value)/(Actual Cost)
 # SPI (Schedule Performace Index) = EV/PV = (Earned Value)/(Planned Value)
@@ -1112,29 +1111,29 @@ Focus: Aligning projects with strategic business goals.
 
 1. Retrospective Meeting
 2. Tuckman's Ladder of Team Development
-2. Agile Manifesto
-3. Team Members Role (Product Owner, Project Manager, Team)
-4. Monitoring (Support Team Member Long Term)
-5. Information Radiator?
-6. Acquired Needs Theory
-7. Risk Analysis, Assessment & Prioritization
-8. Communication Tools
-9. Changes & Change Management Plan
-10. Psychological safety
-11. Change Control Board or Approval of Changes
-12. Configuration management system
-13. OKRs (Objectives and Key Results)
-14. EVM (CPI, SPI)
-15. PESTLE & VUCA Framework
-16. Coaching
-17. Quality Metrics
-18. Attributes of an Agile team?
-19. Team Management
-20. Stakeholder engagement assessment matrix
-21. Communications management plan
-22. Estimating Techniques
-23. Satement Of Work (SOW)
-24. Activity Relationship
-25. Triangular Distribution (Three-Point Estimation)
-26. Contract Type
-27. Oscar model
+3. Agile Manifesto
+4. Team Members Role (Product Owner, Project Manager, Team)
+5. Monitoring (Support Team Member Long Term)
+6. Information Radiator?
+7. Acquired Needs Theory
+8. Risk Analysis, Assessment & Prioritization
+9. Communication Tools
+10. Changes & Change Management Plan
+11. Psychological safety
+12. Change Control Board or Approval of Changes
+13. Configuration management system
+14. OKRs (Objectives and Key Results)
+15. EVM (CPI, SPI)
+16. PESTLE & VUCA Framework
+17. Coaching
+18. Quality Metrics
+19. Attributes of an Agile team?
+20. Team Management
+21. Stakeholder engagement assessment matrix
+22. Communications management plan
+23. Estimating Techniques
+24. Satement Of Work (SOW)
+25. Activity Relationship
+26. Triangular Distribution (Three-Point Estimation)
+27. Contract Type
+28. Oscar model
