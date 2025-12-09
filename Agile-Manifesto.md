@@ -1,7 +1,5 @@
 # Top Priorities of an Agile Practitioner
 
----
-
 ### 🔑 **1. Customer Satisfaction**
 
 * Highest priority is to **satisfy the customer through early and continuous delivery** of valuable software (or product increments).
