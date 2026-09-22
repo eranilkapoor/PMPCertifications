@@ -207,6 +207,10 @@ prep.
 * [PMP Application — Project Description](PMP-application-project-description.md) — how to write your experience for the PMI application (including using AI to draft it)
 * [Top 10 Reasons to Get PMP Certified](Top-10-reason-to-get-PMP-Certified.md)
 
+## 7. Related Folders
+
+* [TechnicalArchitect](../TechnicalArchitect/README.md) — real-project case studies (Travel CRM, E-commerce ERP/CRM, a Zerodha-like trading app) that apply these PMP processes (Project Charter, Business Case, Process Groups) to actual system designs
+
 ---
 
 ## 📐 Quick Formula Reference (Earned Value Management)
