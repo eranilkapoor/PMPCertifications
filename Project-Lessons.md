@@ -348,7 +348,7 @@
             3. Three-Point
             4. Bottom-Up
         - Three-Point Estimation
-            1. Tringular Distribution (Average)
+            1. Triangular Distribution (Average)
             2. BETA Distribution (PERT Average)
         - Critical Path Method
         - Network Diagram with Date and Dependencies

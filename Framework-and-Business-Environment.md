@@ -461,8 +461,8 @@ Projects don’t happen in isolation — they exist inside organizations that ha
 
 * Definition Of A Project
 * Stakeholders
-    - People or Organizataions 
-    - Nagatively or Positively impacted by Project or Product
+    - People or Organizations 
+    - Negatively or Positively impacted by Project or Product
 * Project Management
     - Predictive / Plan Driven / Traditional / Waterfall
     - Agile / Change Driven / Adaptive
